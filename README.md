@@ -13,12 +13,11 @@ This app contains two features.
     - Receive 10 random questions from the question bank for each quiz session
     - Each correct answer earns 1 point with no negative marking.
 ### Tools and Technology -
-    + IntelliJ IDEA
+     - IntelliJ IDEA
 ### Prerequisites
-    + JDK
+     - JDK
 ### How to run this project
-
     - Clone this repository
-        ``` 
-Open build.gradle file as a project with IntelliJ IDEA
-Run QuizMain.java
+        ``` https://github.com/Katha-Sikdar/QuizBank ```
+    - Open build.gradle file as a project with IntelliJ IDEA
+    - Run QuizMain.java
