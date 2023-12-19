@@ -20,3 +20,10 @@ This app contains two features.
   - Clone this repository - ``` https://github.com/Katha-Sikdar/QuizBank ```
   - Open build.gradle file as a project with IntelliJ IDEA
   - Run QuizMain.java
+### QuizBank Live Demo - 
+
+
+
+https://github.com/Katha-Sikdar/QuizBank/assets/82141562/fd25b40d-7de8-42bc-ae99-f8a762c6fb4d
+
+
