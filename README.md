@@ -17,7 +17,6 @@ This app contains two features.
 ### Prerequisites
   - JDK
 ### How to run this project
-    - Clone this repository
-        ``` https://github.com/Katha-Sikdar/QuizBank ```
-    - Open build.gradle file as a project with IntelliJ IDEA
-    - Run QuizMain.java
+  - Clone this repository - ``` https://github.com/Katha-Sikdar/QuizBank ```
+  - Open build.gradle file as a project with IntelliJ IDEA
+  - Run QuizMain.java
